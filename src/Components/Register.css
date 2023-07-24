@@ -1,0 +1,23 @@
+.input_section{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.form-group{
+    width: 30%;
+    display: flex;
+    flex-direction: column;
+    gap: 30px;
+
+}
+.form-control{
+    height: 30px;
+    width: 400px;
+}
+.btn{
+    background-color: aquamarine;
+    color: black;
+    border-radius: 25px;
+    height: 40px;
+    font-size: 20px;
+}
